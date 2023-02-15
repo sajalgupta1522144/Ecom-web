@@ -1,0 +1,79 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Feb 2023 06:24:37 at https://www.harrisonlocks.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.harrisonlocks.com/ -O1 "D:\harrison" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/blog-masonry.html (from https://www.harrisonlocks.com/)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/images/1638791990Untitled-1.jpg (from https://www.harrisonlocks.com/)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-brands-400.eot (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-brands-400.eot? (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-brands-400.woff2 (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-brands-400.woff (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-brands-400.ttf (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-brands-400.svg (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-light-300.eot (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-light-300.eot? (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-light-300.woff2 (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-light-300.woff (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-light-300.ttf (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-light-300.svg (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-regular-400.eot (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-regular-400.eot? (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-regular-400.woff2 (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-regular-400.woff (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-regular-400.ttf (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-regular-400.svg (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-solid-900.eot (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-solid-900.eot? (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-solid-900.woff2 (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-solid-900.woff (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-solid-900.ttf (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/fa-solid-900.svg (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/feather.eot (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/feather.eot? (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/feather.woff (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/feather.ttf (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/feather.svg (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/Pe-icon-7-stroke.eot?d7yf1v (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/Pe-icon-7-stroke.eot? (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/Pe-icon-7-stroke.woff?d7yf1v (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/Pe-icon-7-stroke.ttf?d7yf1v (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/fonts/Pe-icon-7-stroke.svg?d7yf1v (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/images/default-skin.png (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/images/default-skin.svg (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/images/preloader.gif (from https://www.harrisonlocks.com/assets/front/css/plugins.min.css)
+06:27:01	Warning: 	File not parsed, looks like binary: https://www.harrisonlocks.com/assets/front/harrison/fonts/fa-brands-400.html
+06:27:01	Warning: 	Warning: store application/octet-stream without scan: D:/harrison/www.harrisonlocks.com/assets/front/harrison/fonts/fa-brands-400.html
+06:27:02	Warning: 	File not parsed, looks like binary: https://www.harrisonlocks.com/assets/front/harrison/fonts/fa-regular-400.html
+06:27:02	Warning: 	Warning: store application/octet-stream without scan: D:/harrison/www.harrisonlocks.com/assets/front/harrison/fonts/fa-regular-400.html
+06:27:02	Warning: 	File not parsed, looks like binary: https://www.harrisonlocks.com/assets/front/harrison/fonts/fa-solid-900.html
+06:27:02	Warning: 	Warning: store application/octet-stream without scan: D:/harrison/www.harrisonlocks.com/assets/front/harrison/fonts/fa-solid-900.html
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/css/images/ui-icons_444444_256x240.png (from https://www.harrisonlocks.com/assets/front/harrison/css/theme-vendors.min.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/css/images/ui-icons_555555_256x240.png (from https://www.harrisonlocks.com/assets/front/harrison/css/theme-vendors.min.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/css/images/ui-icons_ffffff_256x240.png (from https://www.harrisonlocks.com/assets/front/harrison/css/theme-vendors.min.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/css/images/ui-icons_777620_256x240.png (from https://www.harrisonlocks.com/assets/front/harrison/css/theme-vendors.min.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/css/images/ui-icons_cc0000_256x240.png (from https://www.harrisonlocks.com/assets/front/harrison/css/theme-vendors.min.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/css/images/ui-icons_777777_256x240.png (from https://www.harrisonlocks.com/assets/front/harrison/css/theme-vendors.min.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/images/down-arrow.html (from https://www.harrisonlocks.com/assets/front/harrison/css/style.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/images/mfg-close.html (from https://www.harrisonlocks.com/assets/front/harrison/css/style.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/images/icon-move-light.html (from https://www.harrisonlocks.com/assets/front/harrison/css/style.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/images/vertical-icon-move-light.html (from https://www.harrisonlocks.com/assets/front/harrison/css/style.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/images/vertical-icon-move-black.html (from https://www.harrisonlocks.com/assets/front/harrison/css/style.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/images/mission-left-bg.png (from https://www.harrisonlocks.com/assets/front/harrison/css/style.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/front/harrison/images/mission-right-bg.png (from https://www.harrisonlocks.com/assets/front/harrison/css/style.css)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/assets/harrison/images/home-marketing-agency-img-02.png (from https://www.harrisonlocks.com/corporate-overview)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/our-client.php (from https://www.harrisonlocks.com/corporate-overview)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/images/our-process-01.jpg (from https://www.harrisonlocks.com/mission-vision)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/coming-soon.php (from https://www.harrisonlocks.com/become-a-dealer)
+06:27:08	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/privacy.html (from https://www.harrisonlocks.com/architect-and-designer-connect)
+06:27:08	Warning: 	Moved Permanently for https://www.harrisonlocks.com/become-a-dealer/
+06:27:08	Warning: 	File has moved from https://www.harrisonlocks.com/become-a-dealer/ to https://www.harrisonlocks.com/become-a-dealer
+06:27:31	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/"https://www.harrisonlocks.com/assets/harrison/images/home-finance-service-bg.jpg" (from https://www.harrisonlocks.com/contact)
+06:27:31	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/htdocs_error/style.css (from https://www.harrisonlocks.com/assets/front/harrison/fonts/icomoon-solid35893589.html?1sxah1)
+06:27:31	Error: 	"Not Found" (404) at link https://www.harrisonlocks.com/htdocs_error/something-lost.png (from https://www.harrisonlocks.com/assets/front/harrison/fonts/icomoon-solid35893589.html?1sxah1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 293 links scanned, 231 files written (73179354 bytes overall) [69748434 bytes received at 400853 bytes/sec], 4629471 bytes transferred using HTTP compression in 41 files, ratio 22%, 4.0 requests per connection
+(60 errors, 8 warnings, 0 messages)
